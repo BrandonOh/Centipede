@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ClassicArcade/Scenes/MainMenu.unity
+    guid: 10fe00cb8146c954b846b4f605eaf1d1
+  - enabled: 1
+    path: Assets/AE-MetalSlug/Scenes/Start-scene.unity
+    guid: 0198abbcde470c8488dd9ca871774065
+  - enabled: 1
+    path: Assets/AE-MetalSlug/Scenes/Game.unity
+    guid: bd5668c6f19f8544bb03fb2a48b4d892
+  - enabled: 1
+    path: Assets/AE-MetalSlug/Scenes/End Scene.unity
+    guid: 136ad798be0336e4993ca69583c6165b
+  - enabled: 1
+    path: Assets/Asteroids/Scenes/RoidsStartScreen.unity
+    guid: 06d01d4daf1afde439291a4ee4f15660
+  - enabled: 1
+    path: Assets/Asteroids/Scenes/RoidsLevel01.unity
+    guid: a45d428f96d05f44fb796af048e963d1
+  - enabled: 1
+    path: Assets/Asteroids/Scenes/RoidsEndScreen.unity
+    guid: 26f2663c21c003942a02788a86a64adb
+  - enabled: 1
+    path: Assets/Frogger/Scenes/FroggerStartScreen.unity
+    guid: 7a8f4ca70d5a5044ebdceb81327c0a04
+  - enabled: 1
+    path: Assets/Frogger/Scenes/FroggerGameScreen.unity
+    guid: 24adaab62a23da64b9e8ba966db9332a
+  - enabled: 1
+    path: Assets/Frogger/Scenes/FroggerEndScreen.unity
+    guid: b0499237fcc88264f9e4d9353229e85d
+  - enabled: 1
+    path: Assets/Frogger/Scenes/FroggerWinScreen.unity
+    guid: 21a52e524b16f3443ae078c0c1936ac0
+  - enabled: 1
+    path: Assets/Mario/scenes/Title.unity
+    guid: 4bec931e8a2cbe74e9be51f415d83662
+  - enabled: 1
+    path: Assets/Mario/scenes/Level01.unity
+    guid: 6cc19e71af198bc47a75a30a65b36808
+  - enabled: 1
+    path: Assets/Tetris/Scenes/TetrisGameover.unity
+    guid: abfc33881932b26429100adef743a6ec
+  - enabled: 1
+    path: Assets/Tetris/Scenes/TetrisMenu.unity
+    guid: 684eb5948064cbf4e82dfc06b1010fd7
+  - enabled: 1
+    path: Assets/SpaceInvaders/Scenes/GameScene.unity
+    guid: 0ea55f44ef660cb4187569b484ae9303
+  - enabled: 1
+    path: Assets/SpaceInvaders/Scenes/GameOverScene.unity
+    guid: 0dc4a4481f128d741b2ce71b98328f4d
+  - enabled: 1
+    path: Assets/Tetris/Scenes/TetrisMain.unity
+    guid: dddba2e000431d845a0ce3be737802fa
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/JD_MainMenu.unity
+    guid: 9f1c5d00a95df49498e5151b8805c62d
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/JD_MainProgram.unity
+    guid: 73ecb44eb9732b84fa3c7153255f13ee
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/JD_GameOver.unity
+    guid: f9a0ac639d01041489ce46869cab5f37
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/JD_Winner.unity
+    guid: 7704d186cbfea6348af92ff3ce95bb22
+  - enabled: 1
+    path: Assets/BK_CastleVania/Scenes/CV_MainMenu.unity
+    guid: 29424b87db6d5034b8f63d814028a17d
+  - enabled: 1
+    path: Assets/BK_CastleVania/Scenes/CV_Level1.unity
+    guid: f615f7c02e0d72c4d8d78c32334d87cd
+  - enabled: 1
+    path: Assets/BK_CastleVania/Scenes/CV_GameOver.unity
+    guid: 10faa8648330cdf4989beee48b6aa857
+  - enabled: 1
+    path: Assets/BN_Mario/Scenes/TitleScene.unity
+    guid: 90ecec2ae8f25354996b308279251583
+  - enabled: 1
+    path: Assets/BN_Mario/Scenes/Main.unity
+    guid: 5afc0477d1dfab14eac463b8f29c6e93
+  - enabled: 1
+    path: Assets/BN_Mario/Scenes/ClosingScene.unity
+    guid: 5e65577f69c3572459ae709794fc7753
+  - enabled: 1
+    path: Assets/BO_Centipede/Scenes/BO-MainMenuCentipede.unity
+    guid: 75b0fec9e9ec13749897ccd8c3cdee8c
+  - enabled: 1
+    path: Assets/BO_Centipede/Scenes/BO-GameCentipede.unity
+    guid: 03a9ceca25c7c344ab7229ef254891cb
+  - enabled: 1
+    path: Assets/BO_Centipede/Scenes/BO-ClosingSceneCentipede.unity
+    guid: a0128405eb3579b44af6b0ad034b7926
+  - enabled: 1
+    path: Assets/DF_Sonic/Scenes/DF_MainMenu.unity
+    guid: 7035f31ab4c69b54f8d8313b0cadfac3
+  - enabled: 1
+    path: Assets/DF_Sonic/Scenes/DF_MainGame.unity
+    guid: 7154e1298d9246d49a348cc74eebe04f
+  - enabled: 1
+    path: Assets/DF_Sonic/Scenes/DF_ResultScene.unity
+    guid: 158b8bb5424225147b771c56e117fb5f
+  - enabled: 1
+    path: Assets/AS_Bomberman/Scenes/AS_GameMenu.unity
+    guid: a81c5c6012004b14ca81c9c8edbbaefe
+  - enabled: 0
+    path: Assets/AS_Bomberman/Scenes/AS_MatchSettings.unity
+    guid: 829a8df862f4dc3439c52eff27fd12c5
+  - enabled: 1
+    path: Assets/AS_Bomberman/Scenes/AS_Level_1.unity
+    guid: 0d082a156a948e14b85f20e23a51d2dd
+  - enabled: 1
+    path: Assets/AS_Bomberman/Scenes/AS_ScreenWin.unity
+    guid: 3f42396daaff4494eab776405959e2a0
+  - enabled: 1
+    path: Assets/AS_Bomberman/Scenes/AS_ScreenLose.unity
+    guid: 03d63b7d48c99c34cafdf9c4beb5a704
+  m_configObjects: {}
